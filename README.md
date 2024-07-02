@@ -6,7 +6,7 @@ I am expected to complete my PhD in August 2024 and I am actively research for j
 My github page consists of code I've used for various scientific projects I've worked on over the years.
 
 ### Educational Background
-Ph.D. UC Santa Barbara - Microbial Ecology & Genomics (~June 2024)
+Ph.D. UC Santa Barbara - Microbial Ecology & Genomics (August 2024)
 
 M.Sc. UC Santa Barbara - Micoribal Ecology (2022)
 
