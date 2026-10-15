@@ -1,17 +1,13 @@
-### Hi there 👋, I'm Sevan (pronounced sev-on)
-I am a Ph.D. candidate at the University of California, Santa Barbara studying marine biofilm development through the lens of carbohydrate metabolism, and antibiotic production potential. My biological research experiences include cell and molecular biology, quantitative ecology, and microbial ecology. 
+# Hi, I'm Sevan 👋 (sev-on)
 
-I am expected to complete my PhD in August 2024 and I am actively research for jobs in data analysis & consulting. 
+Welcome to my page! I'm a biostatistician and research biologist who loves telling stories through data.
 
-My github page consists of code I've used for various scientific projects I've worked on over the years.
+I lead biostatistics at Children's Hospital Los Angeles (The Saban Research Institute, Division of Endocrinology, Diabetes, and Metabolism), where I lead analyses and statistical decision making NIH-funded clinical studies on pediatric diabetes.
 
-### Educational Background
-Ph.D. UC Santa Barbara - Microbial Ecology & Genomics (August 2024)
+My specialty is longitudinal, repeated-measures data. I use machine learning and statistical modeling to uncover how nutrition, anthropometric, biomarker, device-sensor, and geospatial factors change over time and shape health outcomes. I work in R, Python, SAS, and SQL, and I turn complex results into clear, reproducible analyses and dashboards that collaborators can act on.
 
-M.Sc. UC Santa Barbara - Micoribal Ecology (2022)
+**Let's connect**
+- 💼 LinkedIn: [https://www.linkedin.com/in/sevan-esaian/]
+- 📚 Publications: [https://scholar.google.com/citations?user=8r1jAR4AAAAJ&hl=en]
 
-M.Sc. CSU Los Angeles - Quantitative Ecology (2018)
-
-GIS Certificate - CSU Los Angeles (2018)
-
-B.Sc. CSU Los Angeles - Cell & Molecular Biology (2016)
+Thanks for stopping by!
